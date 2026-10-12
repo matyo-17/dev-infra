@@ -58,9 +58,6 @@ Example:
 # MySQL
 MYSQL_PORT=3306
 MYSQL_ROOT_PASSWORD=replace_with_a_strong_root_password
-MYSQL_DATABASE=laravel
-MYSQL_USER=laravel
-MYSQL_PASSWORD=replace_with_a_strong_app_password
 
 # Redis
 REDIS_PORT=6379
